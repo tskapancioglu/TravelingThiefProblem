@@ -1,14 +1,14 @@
 **Test Instances** - generated in our work **"Formulations and an exact algorithm for the Traveling Thief Problem"**.
 
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 
 
 
 Other benchmark instances used in our experiments can be found in the following links:
 
-<br><br>
+<br>
 
 **50 nodes** +
 
@@ -16,7 +16,7 @@ Other benchmark instances used in our experiments can be found in the following 
 
 https://cs.adelaide.edu.au/~optlog/CEC2014COMP_InstancesNew/
 
-<br><br>
+<br>
 
 **5-20 nodes**
 
