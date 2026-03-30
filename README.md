@@ -9,13 +9,15 @@
 Other benchmark instances used in our experiments can be found in the following links:
 
 <br>
-**50 nodes +**
+
+**50 nodes** +
 
 **Polyakovskiy, S., Bonyadi, M. R., Wagner, M., Michalewicz, Z., and Neumann, F. (2014). A comprehensive benchmark set and heuristics for the traveling thief problem**
 
 https://cs.adelaide.edu.au/~optlog/CEC2014COMP_InstancesNew/
 
 <br>
+
 **5-20 nodes**
 
 **Wu, J., Wagner, M., Polyakovskiy, S., and Neumann, F. (2017). Exact approaches for the travelling thief problem**
