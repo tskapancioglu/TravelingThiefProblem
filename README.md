@@ -6,7 +6,7 @@
 
 
 
-Other benchmark instances used in our experiments can be found in the following links:
+Benchmark instances used in our experiments can be found in the following links:
 
 <br>
 
