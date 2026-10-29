@@ -1,4 +1,4 @@
-**Generated Instances** - generated in our work **"Formulations and an exact algorithm for the Traveling Thief Problem"**.
+**Generated Instances** - generated in our work **"Formulations and an exact algorithm for the Traveling Thief Problem"** [https://10.1016/j.ejor.2026.08.002](https://doi.org/10.1016/j.ejor.2026.08.002).
 
 
 <br><br>
